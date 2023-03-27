@@ -58,22 +58,15 @@ p{
     font-size: 2em;
 }
 
-
-
-/*#fundo-clique{
-    margin:auto;  
-    
-    
-}*/
 #clique{
     margin: auto;
     background:  #092838;
     border-radius: 15px;
     width: 100px;
-    height: 40px;
+    height: 30px;
     text-align: center;
-    line-height: 2.8em;
-    font-size: 0.8em;
+    line-height: 2em;
+    font-size: 0.9em;
     padding: 10px;
     color: rgba(255, 255, 255, 0.623);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
