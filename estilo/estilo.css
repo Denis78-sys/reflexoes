@@ -43,11 +43,12 @@ p{
 
 #campo-texto{
     background: white;
-    width: 80%;
+    width: 60%;
     box-shadow: 2px 2px 3px rgba(41, 40, 40, 0.541);
     margin: auto;
     border-radius: 10px;
     padding: 20px;  
+    margin-bottom: 30px;
 }
 
 #campo-texto > p{   
@@ -59,22 +60,23 @@ p{
 
 
 
-div#fundo-clique{
-    margin:auto;
-    width: 100px;
-    height: 30px;
-    text-align: center;
+/*#fundo-clique{
+    margin:auto;  
     
-}
+    
+}*/
 #clique{
-    margin-top: 10px;
+    margin: auto;
     background:  #092838;
     border-radius: 15px;
-    line-height: 1em;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 2.8em;
     font-size: 0.8em;
     padding: 10px;
-    color: white;
-    font-family: 'Kaushan Script', cursive;
+    color: rgba(255, 255, 255, 0.623);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: 2px 2px 3px rgba(41, 40, 40, 0.541);
 }
 
